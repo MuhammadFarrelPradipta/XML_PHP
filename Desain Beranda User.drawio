@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T01:09:09.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="l04Z4RLOn9eKEoUpfMfw" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T01:10:54.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="aRYvvKqElhlvZ3oB_PiX" version="21.3.7" type="github">
   <diagram name="Page-1" id="ZanTFDjHVohN3oBrqNSO">
     <mxGraphModel dx="1257" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="8UCVUKHjYt9TgeEojVH4-29" value="Sosial Media" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8UCVUKHjYt9TgeEojVH4-1">
           <mxGeometry x="70" y="980" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8UCVUKHjYt9TgeEojVH4-30" value="Kenali Lebih Lanjut" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8UCVUKHjYt9TgeEojVH4-1">
+          <mxGeometry x="380" y="690" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8UCVUKHjYt9TgeEojVH4-31" value="&lt;font color=&quot;#000000&quot;&gt;Siapa Kita&lt;/font&gt;" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#ffffff;fontStyle=0;html=1;align=center;" vertex="1" parent="8UCVUKHjYt9TgeEojVH4-1">
+          <mxGeometry x="370" y="580" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
